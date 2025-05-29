@@ -6,7 +6,7 @@ pip install rosbag-to-dataframe
 pip install pandas rosbags
 conda install notebook ipykernel Pillow pyparsing matplotlib
 
-VSCdoe Extensions:
+VSCode Extensions:
 - Data Wrangler
 
 Use ros2 bag info /bagpath to see what topics there are.
