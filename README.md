@@ -10,6 +10,8 @@ I recommend using a conda environment. I named mine ros_visuals.
 3) Install the following packages
 - ``pip install rosbag-to-dataframe rosbags``
 - ``conda install pandas matplotlib notebook ipykernel Pillow pyparsing``
+4) Install ROS2 binaries for your computer if you have not already. See ROS2 documentation for details.
+    - Note: ros2 is only needed if you need to work with the ROSBAGs (AKA view their topics and play them back. Otherwise, it is not needed.)
 
 ### Recommended Installs:
 VSCode Extensions:
